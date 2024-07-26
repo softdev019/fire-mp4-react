@@ -31,8 +31,7 @@ const HeroSection = () => {
             <HeroContent>
                 <HeroH1> Experience the guga </HeroH1>
                 <HeroP> 
-                    Sign up for a new account today and receive 
-                    free access to the world's first interactive guga.
+                    Europa want to cross the river. Her hair was followed the wind
                 </HeroP>
                 <HeroBtnWrapper>
                     <Button 
